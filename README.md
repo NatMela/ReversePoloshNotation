@@ -1,4 +1,4 @@
-## ReversePoloshNotation
+## ReversePolishNotation
 The description of the problem could be found here: https://en.wikipedia.org/wiki/Reverse_Polish_notation
 
 The script takes 2 string arguments as an input: expression, written in postfix polish notation, and separator, which is used in this expression to divide "words".
